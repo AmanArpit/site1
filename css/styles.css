@@ -19,6 +19,15 @@ h3{
 .broccoli:hover{
   background-color: red;
 }
+.fish:hover{
+  background-color: red;
+}
+.rice:hover{
+  background-color: green;
+}
+.chicken:hover{
+  background-color: red;
+}
 .circular{
   border-radius: 100%;
 }
