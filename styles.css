@@ -1,0 +1,30 @@
+body{
+  background-color: #FFF5E4;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: green;
+  border-width: 5px;
+}
+h1{
+color: #002E94;
+}
+h3{
+  color: Black;
+}
+.pizza:hover{
+  background-color: green;
+}
+.broccoli:hover{
+  background-color: red;
+}
+.circular{
+  border-radius: 100%;
+}
+.a{
+  color: green;
+}
+.b{
+  color: red;
+}
